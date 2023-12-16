@@ -70,18 +70,18 @@
   align-items: center;
   /* color: whitesmoke; */
 }
+.nav{
+  display: none;
+}
 @media (max-width: 500px) {
   .nav {
-    /* position: fixed; */
-    /* top: 1; */
-    /* right: 60; */
-    /* z-index: 2; */
+    display: block;
     font-size: 50px;
     color: white;
     margin-left: -100px;
   }
   .pop {
-    display: flex;
+    display: none;
     flex-direction: column;
     gap: 10px;
     justify-content: space-around;
