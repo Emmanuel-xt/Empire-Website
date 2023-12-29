@@ -174,7 +174,7 @@
   }
 }
 .secondsec {
-  background-image: url(../3dimages/tech-bg-3adcaaff.jpg);
+  background-image: url(./3dimages/tech-bg-3adcaaff.jpg);
   background-size: cover;
   padding: 40px;
 }
@@ -520,8 +520,7 @@
   .contact_us {
     width: 100%;
   }
-  .pnum {
-  }
+
 }
 .pnum {
   background: linear-gradient(to right, rgb(68, 145, 213), blue);
